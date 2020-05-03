@@ -1,5 +1,5 @@
 {
-  "name": "syntax/steam-api",
+  "name": "chimpanze/steam-api",
   "description": "A steam-api client for Laravel 5.8+",
   "version": "2.2.0",
   "license": "MIT",
